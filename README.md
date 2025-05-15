@@ -3,7 +3,7 @@
 <h3 align="center">WWorking as a Software Engineer in Insurance, Telecommunications and Retail industries since April 2010. I develop scalable systems by applying Microservice and Event-Driven Architecture approaches, and actively use Object-Oriented Programming, Design Patterns, and SOLID principles in my projects.</h3>
 
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/s-sel%C3%A7uk-%C3%B6zdemir-080a3a63?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhLASzgWuS2ea5QMP8%2FOLHQ%3D%3D](https://www.linkedin.com/in/s-sel%C3%A7uk-%C3%B6zdemir-080a3a63?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhLASzgWuS2ea5QMP8%2FOLHQ%3D%3D)
+- 📄 Know about my experiences [https://www.linkedin.com/in/s-sel%C3%A7uk-%C3%B6zdemir-080a3a63?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhLASzgWuS2ea5QMP8%2FOLHQ%3D%3D]
 </p>
 <p align="left">
 </p>
