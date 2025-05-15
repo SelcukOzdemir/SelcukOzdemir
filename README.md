@@ -1,6 +1,6 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEiFoWdAnUN1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714840400902?e=1752710400&v=beta&t=Aq1_rjiBmmR33cZweSaizQJqE01jWFX51LCF7d78BH0)
 <h1 align="center">Hi 👋, I'm Selçuk Özdemir</h1>
-<h3 align="center">WWorking as a Software Engineer in Insurance, Telecommunications and Retail industries since April 2010. I develop scalable systems by applying Microservice and Event-Driven Architecture approaches, and actively use Object-Oriented Programming, Design Patterns, and SOLID principles in my projects.</h3>
+<h3 align="center">Working as a Software Engineer in Insurance, Telecommunications and Retail industries since April 2010. I develop scalable systems by applying Microservice and Event-Driven Architecture approaches, and actively use Object-Oriented Programming, Design Patterns, and SOLID principles in my projects.</h3>
 
 - 📫 How to reach me **ozdemirsselcuk@gmail.com**
 <h3 align="left">Connect with me:</h3>
