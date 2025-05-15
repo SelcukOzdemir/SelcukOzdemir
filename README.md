@@ -1,8 +1,10 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEiFoWdAnUN1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1714840400902?e=1752710400&v=beta&t=Aq1_rjiBmmR33cZweSaizQJqE01jWFX51LCF7d78BH0)
-<h1 align="center">Hi 👋, I'm Selçuk</h1>
-<h3 align="center">Senior Java Developer</h3>
+<h1 align="center">Hi 👋, I'm Selçuk Özdemir</h1>
+<h3 align="center">WWorking as a Software Engineer in Insurance, Telecommunications and Retail industries since April 2010. I develop scalable systems by applying Microservice and Event-Driven Architecture approaches, and actively use Object-Oriented Programming, Design Patterns, and SOLID principles in my projects.</h3>
 
 <h3 align="left">Connect with me: linkedin.com/in/s-selçuk-özdemir-080a3a63</h3>
+<a href="linkedin.com/in/s-selçuk-özdemir-080a3a63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+</p>
 <p align="left">
 </p>
 
