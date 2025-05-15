@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Selçuk</h1>
 <h3 align="center">Senior Java Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: linkedin.com/in/s-selçuk-özdemir-080a3a63</h3>
 <p align="left">
 </p>
 
